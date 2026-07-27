@@ -1,0 +1,37 @@
+# Hub.xyz
+
+> Hub.xyz is a physical-AI data company. It creates, annotates and curates custom real-world datasets — egocentric, video, image and audio — used to train AI and robotics models, sourced through a global network of retail contributors and verified small and medium businesses.
+
+Hub.xyz turns real-world human activity into machine training signal. Contributors and partner businesses capture first-person and multimodal recordings of everyday physical work; Hub curates, annotates and labels them into pipeline-ready datasets. Hub offers both off-the-shelf datasets and bespoke, custom-scoped data collection projects quoted within hours.
+
+## Datasets
+
+- Egocentric: first-person POV video of workplace and residential tasks, with IMU data, RGB depth and rigged 3D hand reconstruction.
+- Image: diverse raw and professionally edited images across dozens of verticals.
+- Video: multi-object tracking, action segmentation and scene-level captions, frame-accurate at 30fps.
+- Audio: multilingual field recordings with speaker diarization, language and accent tags, and per-utterance emotion labels.
+
+## Offerings
+
+- Off-the-shelf datasets: structured, labeled and annotated data, ready for training.
+- Bespoke collection: custom-scoped projects priced by modality, volume, coverage and complexity, with a quote returned within hours and a fully managed end-to-end pipeline.
+- Verified SMB network: a contracted, capture-ready network of small and medium businesses across many industries.
+
+## Business partner program
+
+Hub pays small and medium businesses for egocentric recordings of the work their teams already do. A head-mounted camera captures a first-person view of hands at work (session-based, no audio); Hub reviews the footage and turns it into training data for robotics and physical AI.
+
+- Who it's for: SMBs across 18 physical-work environments — restaurant and commercial kitchens, warehouses and distribution, construction sites, plumbing/HVAC/electrical, auto service, metal fabrication and welding, commercial cleaning, hotels, food and beverage plants, and more.
+- Earnings: US$3–10 per approved hour of recorded work, with $0 hardware cost, no minimum volume, and setup in under an hour.
+- Apply: https://hub.xyz/business
+
+## Links
+
+- Become a Contributor: https://www.platform.hub.xyz
+- Privacy policy: https://hub.xyz/privacypolicy
+
+## Contact
+
+- Email: hello@hub.xyz
+- X / Twitter: https://x.com/hubxyz
+- LinkedIn: https://www.linkedin.com/company/104221584

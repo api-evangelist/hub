@@ -9,6 +9,17 @@ description: Hub (Hub.xyz) is a distributed physical-AI data infrastructure comp
   hours, delivered through a fully managed pipeline that couples automation with
   human-in-the-loop validation for frontier AI labs and Fortune 500 companies.
 url: https://raw.githubusercontent.com/api-evangelist/hub/refs/heads/main/apis.yml
+deliveryModel:
+  model: saas
+  open_source: false
+  commercial: true
+  callable_host: false
+  label: Hosted service · you call their endpoint
+  confidence: medium
+  source:
+  - pricing
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: unknown
   onboarding: unknown

@@ -44,7 +44,7 @@ modified: '2026-07-19'
 tags:
 - Company
 - Artificial Intelligence
-- Machine-Learning
+- Machine Learning
 - Training Data
 - Robotics
 - Physical AI
@@ -63,6 +63,7 @@ tags_raw:
 - Data Infrastructure
 - Annotation
 - Multimodal
+- Machine-Learning
 apis:
 - name: Hub Datasets API
   description: Hub's API surface for accessing real-world, multimodal training datasets
